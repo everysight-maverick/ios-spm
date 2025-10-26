@@ -1,9 +1,9 @@
 // swift-tools-version:5.5
 import PackageDescription
 
-let releaseName = "v2.6.0"
-let checksumEvsKit = "09fe725bf8b990a2ebee025fa082da727ee6471a47f5b248ab63eec0bf76e678"
-let checksumNativeEvsKit = "d82ae9aed52ca2f30a8187490621f79cb73aac65571fa9c8a7c6f25932e0e1df"
+let releaseName = "v2.6.1"
+let checksumEvsKit = "a7521db64392e4be32f9434fe4c13ab7948d54e5855da988c4ec0d63986d0583"
+let checksumNativeEvsKit = "c8bdcebdb339c8f29eac745c0106c868c5f9822583647b6037da8ee7619a29c9"
 
 
 let package = Package(
